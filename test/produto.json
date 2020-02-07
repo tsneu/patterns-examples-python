@@ -1,0 +1,14 @@
+{
+    "body": {
+    },
+    "params": {},
+    "path": {
+      "id_produto": "11",
+      "page[number]": "11",
+      "sort": "-id",
+      "page[size]": "25"
+    },
+    "context": {
+      "http-method": "GET"
+    }
+  }

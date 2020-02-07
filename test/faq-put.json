@@ -1,0 +1,8 @@
+{
+    "body":{
+        "id_produto": "12345",
+        "nome": "Cliente Teste",
+        "email": "cliente_teste@example.com",
+        "texto": "Este produto tem garantia? De quanto tempo?"
+    }
+}
